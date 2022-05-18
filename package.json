@@ -1,0 +1,19 @@
+{
+  "name": "web_aut_rihards_niklavs_buks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riha40/WEB_AUT_RIHARDS_NIKLAVS_BUKS.git"
+  },
+  "author": "Rihards Niklavs Buks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riha40/WEB_AUT_RIHARDS_NIKLAVS_BUKS/issues"
+  },
+  "homepage": "https://github.com/riha40/WEB_AUT_RIHARDS_NIKLAVS_BUKS#readme"
+}
